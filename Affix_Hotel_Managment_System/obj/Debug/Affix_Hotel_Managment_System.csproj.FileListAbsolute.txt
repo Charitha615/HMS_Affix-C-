@@ -1,0 +1,457 @@
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csprojAssemblyReference.cache
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Properties.Resources.resources
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.GenerateResource.cache
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CoreCompileInputs.cache
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe.config
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.pdb
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\BouncyCastle.Crypto.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Ubiety.Dns.Core.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Zstandard.Net.dll
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CopyComplete
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.exe
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.pdb
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Staff_Types.resources
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Item_Qty_Types.resources
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Items.resources
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Declare_Item_Cost.resources
+F:\Affix_Hotel_Managment_System\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Victuals_Portions.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe.config
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.pdb
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\BouncyCastle.Crypto.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Ubiety.Dns.Core.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Zstandard.Net.dll
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csprojAssemblyReference.cache
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Edit_Cutleries.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Ingredient_Qty_Types.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Ingredients.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Room.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Staff_Types.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Victuals_Portions.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Block_Rooms.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Declare_Item_Cost.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Define_Printers.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Main_Menu.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Clearance.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Set_Menus.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Unblock_Rooms.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Properties.Resources.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Pull_Test_2.resources
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.GenerateResource.cache
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CoreCompileInputs.cache
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CopyComplete
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.exe
+F:\HMS\Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.pdb
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe.config
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.pdb
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Zstandard.Net.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csprojFakesResolveAssemblyReference.cache
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csprojAssemblyReference.cache
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Edit_Cutleries.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Ingredient_Qty_Types.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Ingredients.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Room.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Staff_Types.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Victuals_Portions.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Block_Rooms.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Declare_Item_Cost.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Define_Printers.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Main_Menu.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Clearance.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Set_Menus.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Unblock_Rooms.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Properties.Resources.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Pull_Test_2.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.GenerateResource.cache
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CoreCompileInputs.cache
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CopyComplete
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.exe
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.pdb
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Main_Menu_Blur.resources
+D:\Hotel Management System\Affix_Hotel_Managment_System\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Cleaning.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe.config
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.pdb
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Zstandard.Net.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csprojFakesResolveAssemblyReference.cache
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csprojAssemblyReference.cache
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Edit_Cutleries.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Ingredients.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Room.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Room_Amenities.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Room_Types.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Victuals_Portions.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Block_Rooms.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Declare_Item_Cost.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Define_Printers.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Desk_Clerk.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Main_Menu.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Main_Menu_Blur.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Rate_Type.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Cleaning.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Clearance.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Set_Menus.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Unblock_Rooms.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Properties.Resources.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Pull_Test_2.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.GenerateResource.cache
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CoreCompileInputs.cache
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CopyComplete
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.exe
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.pdb
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Availability.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Agent.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Add_Delete_Currency.HMS_Add_Delete_Currency.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Staff_Type.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Cash_in_out.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Check_In.HMS_CheckIn.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Check_Out.HMS_CheckOut.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Cutlery_Issuing.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Day_Progress_Of_Bar_Stock.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Day_Progress_Of_HK_Stock.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Day_Progress_Of_Kitchen_Stock.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Good_Issuing_To_HK_Department.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Good_Issuing_to_Kitchen.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_POS.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Purchasing.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Resurant.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Shifting.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Settling_Cutleries.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Tax_ServiceCharge.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.testingForm.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Edit_Reservation.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Reservation.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Ingredient_Qty_Types.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_HouseKeeping_Items_To_Rooms.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Room_Charges.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Card_Payment.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Credit_Settlement.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Credit_Member.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Food_Mangement.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Staff.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Chargable_Facilities.resources
+D:\Hotel Management System\BACKUP\1\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Good__issue_To_Bar.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe.config
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.pdb
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySQL.Utility.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.VisualStudio.CustomAction.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Zstandard.Net.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.exe.config
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Agent.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Chargable_Facilities.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Add_Delete_Currency.HMS_Add_Delete_Currency.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Edit_Cutleries.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Ingredient_Qty_Types.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Ingredients.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Room.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Room_Amenities.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Room_Charges.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Room_Types.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Staff.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Staff_Type.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Victuals_Portions.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Block_Rooms.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Card_Payment.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Cash_in_out.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Check_In.HMS_CheckIn.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Check_Out.HMS_CheckOut.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Credit_Member.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Credit_Settlement.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Cutlery_Issuing.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Day_Progress_Of_Bar_Stock.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Day_Progress_Of_HK_Stock.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Day_Progress_Of_Kitchen_Stock.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Declare_Item_Cost.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Define_Printers.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Desk_Clerk.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Edit_Reservation.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Good__issue_To_Bar.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Good_Issuing_To_HK_Department.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Good_Issuing_to_Kitchen.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_HouseKeeping_Items_To_Rooms.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Main_Menu.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Main_Menu_Blur.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_POS.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Purchasing.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Rate_Type.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Resurant.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Availability.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Cleaning.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Clearance.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Shifting.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Settling_Cutleries.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Set_Menus.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Tax_ServiceCharge.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Unblock_Rooms.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Properties.Resources.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Pull_Test_2.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Reservation.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.testingForm.resources
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.GenerateResource.cache
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CoreCompileInputs.cache
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CopyComplete
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.exe
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.pdb
+D:\Lectures\Sliit\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Daily_Room_Overview.resources
+D:\Lectures\SLIIT\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.AssemblyReference.cache
+D:\Lectures\SLIIT\Y2S2\Hotel Managment\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.SuggestedBindingRedirects.cache
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe.config
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.exe
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Affix_Hotel_Managment_System.pdb
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Zstandard.Net.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Google.Protobuf.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\MySql.Data.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\Renci.SshNet.Async.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Buffers.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Memory.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Numerics.Vectors.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.AssemblyReference.cache
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.SuggestedBindingRedirects.cache
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.exe.config
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Agent.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Chargable_Facilities.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Add_Delete_Currency.HMS_Add_Delete_Currency.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Edit_Cutleries.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Ingredient_Qty_Types.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Ingredients.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_New_Room.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Room_Amenities.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Room_Charges.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Room_Types.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Staff.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Staff_Type.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Add_Victuals_Portions.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Block_Rooms.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Card_Payment.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Cash_in_out.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Check_In.HMS_CheckIn.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Check_Out.HMS_CheckOut.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Credit_Member.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Credit_Settlement.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Cutlery_Issuing.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Day_Progress_Of_Bar_Stock.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Day_Progress_Of_HK_Stock.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Day_Progress_Of_Kitchen_Stock.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Declare_Item_Cost.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Define_Printers.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Desk_Clerk.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Edit_Reservation.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Good__issue_To_Bar.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Good_Issuing_To_HK_Department.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Good_Issuing_to_Kitchen.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_HouseKeeping_Items_To_Rooms.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Main_Menu.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Main_Menu_Blur.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_POS.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Purchasing.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Rate_Type.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Resurant.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Availability.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Cleaning.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Clearance.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Daily_Room_Overview.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Room_Shifting.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Settling_Cutleries.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Set_Menus.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Tax_ServiceCharge.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Unblock_Rooms.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Properties.Resources.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.Pull_Test_2.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.HMS_Reservation.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.testingForm.resources
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.GenerateResource.cache
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CoreCompileInputs.cache
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.csproj.CopyComplete
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.exe
+D:\Lectures\SLIIT\Y2S2\HMS_Affix\Affix_Hotel_Managment_System\obj\Debug\Affix_Hotel_Managment_System.pdb
